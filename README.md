@@ -1,1 +1,5 @@
-# vvictoria-stephany
+Meu nome é victoria stephany
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos# vvictoria-stephany
